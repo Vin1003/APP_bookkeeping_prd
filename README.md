@@ -53,6 +53,8 @@
 
 ## PRD价值主张
 
+![智能记账APP](https://images.gitee.com/uploads/images/2019/1219/002627_64d10787_1532294.png "智能记账app.png")
+
 ### PRD1 加值宣言
 
 1.百度AI平台语音识别API进行语音识别关键字记账。
