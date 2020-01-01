@@ -135,19 +135,21 @@
 
 ### 原型1 交互及界面设计
 
-![语音记账](https://images.gitee.com/uploads/images/2019/1211/042840_528b7d78_1532294.png "语音记账.png")
+#### 记账部分
 
-![图片记账](https://images.gitee.com/uploads/images/2019/1211/042930_b28e3c5f_1532294.png "图片记账.png")
+![记账部分](https://images.gitee.com/uploads/images/2020/0101/210627_a7020c31_1532294.png "index.png")
 
-图一运用了短语音识别API，当短语音被识别后，转化成文字让用户进行审核，审核不通过则重新进行识别。
+#### 账单部分
 
-图二运用了通用票据识别API，当图片被检测出是票据且字迹清晰时，自动进行归类。
+![账单部分](https://images.gitee.com/uploads/images/2020/0101/214309_5929e91b_1532294.png "账单.png")
+
+#### 设置部分
+
+![设置部分](https://images.gitee.com/uploads/images/2020/0101/214343_63ccbf43_1532294.png "设置.png")
 
 ### 原型2 信息设计
 
-![多货币记账](https://images.gitee.com/uploads/images/2019/1211/043334_53d07ae1_1532294.png "多货币记账.png")
 
-此页面运用了汇率识别API，用户通过语音进行记账，系统自动将其转换成人民币进行记账。
 
 ### 原型3 原型文档
 
