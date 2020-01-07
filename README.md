@@ -149,7 +149,21 @@
 
 ### 原型2 信息设计
 
+![币种识别.png](https://upload-images.jianshu.io/upload_images/8399110-d33bafb53cfe4736.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+采用了百度AI平台货币识别API，进行币种识别后转换为当前币种进行记账。
+
+![票据识别.png](https://upload-images.jianshu.io/upload_images/8399110-e9c13ab7854304b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+采用了百度AI平台通用票据识别API，进行票据识别后转成文字让用户进行确认。
+
+![语音汇率识别.png](https://upload-images.jianshu.io/upload_images/8399110-1ab672264d061f77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+采用阿里云汇率转换API，实时转换识别货币与默认货币的汇率，让用户了解当前花钱情况。
+
+![语音记账.png](https://upload-images.jianshu.io/upload_images/8399110-c5ed9eaa103cfbf9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+采用百度AI平台短语音识别API，将语音转成文字后归类到所属记账分类。
 
 ### 原型3 原型文档
 
