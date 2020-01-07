@@ -153,9 +153,7 @@
 
 ### 原型3 原型文档
 
-http://yongyan.me/APP_bookeeping_axure/
-
-备用链接： http://lyy171013051.gitee.io/bookkeeping_app_prototype
+https://vin1003.github.io/APP_bookkeeping_prd/
 
 ### 原型4 口头操作说明
 
