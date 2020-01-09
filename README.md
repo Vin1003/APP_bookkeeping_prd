@@ -331,3 +331,4 @@ if (content):
 
 目前市面上无一款记账类APP拥有多货币记账功能，多货币记账功能运用了货币识别API和汇率转换API，是本产品的主打功能。
 
+[PPT口述](https://github.com/Vin1003/bookeeping_ppt/blob/master/bookkeeping_APP.pptx)
